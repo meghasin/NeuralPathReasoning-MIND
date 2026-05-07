@@ -1,0 +1,16 @@
+{
+  "id": "megha90/neuralpathreasoning-ultra-mind",
+  "title": "NeuralPathReasoning ULTRA Mind",
+  "code_file": "neuralpathreasoning-ultra-mind.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": "true",
+  "enable_gpu": "true",
+  "enable_tpu": "false",
+  "enable_internet": "true",
+  "dataset_sources": [
+    "megha90/wkb-splits-updated"
+  ],
+  "competition_sources": [],
+  "kernel_sources": []
+}
