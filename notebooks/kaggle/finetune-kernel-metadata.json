@@ -1,0 +1,16 @@
+{
+  "id": "megha90/ultra-finetune-mind",
+  "title": "ULTRA Fine-Tune MIND",
+  "code_file": "ultra-finetune-mind.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": "true",
+  "enable_gpu": "true",
+  "enable_tpu": "false",
+  "enable_internet": "true",
+  "dataset_sources": [
+    "megha90/wkb-splits-updated"
+  ],
+  "competition_sources": [],
+  "kernel_sources": []
+}
